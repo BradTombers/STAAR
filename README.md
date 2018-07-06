@@ -12,5 +12,5 @@ The data can be found by following this link:
 
 This repository contains an analysis of the testing data from 2017.  The goal was to determine whether there was a difference in the proportion of students meeting and expecting grade level requirements split among subgroups such as race and gender.  
 
-The full analysis can be found [here](https://github.com/BradTombers/Teaching-Trust/blob/master/STAAR_Analysis.ipynb)
+The full analysis can be found [here](https://github.com/BradTombers/Teaching-Trust/blob/master/STAAR_Analysis.ipynb).
 
